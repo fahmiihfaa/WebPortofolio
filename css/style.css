@@ -1,0 +1,235 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "poppins", sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.f-rap {
+  flex-wrap: wrap;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+.jc-spacebetween {
+  justify-content: space-between;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.spacersection {
+  padding: 2% 0;
+}
+
+.spacercontent {
+  margin-bottom: 20px;
+}
+
+.bigtitle {
+  font-size: 3em;
+}
+
+.bigbtn {
+  padding: 20px 40px;
+  background: rgb(14, 78, 17);
+  color: bisque;
+  display: inline-block;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+.header .nav-brand h1 a {
+  text-decoration: none;
+  color: rgb(74, 114, 55);
+}
+
+.header .nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.header .nav ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.header .nav ul li a:hover {
+  font-weight: bold;
+}
+
+.hero-desc {
+  width: 45%;
+}
+
+.hero-desc p {
+  font-size: 13px;
+  line-height: 170%;
+}
+
+.hero-image {
+  width: 55%;
+}
+
+.category-item {
+  height: 380px;
+  overflow: hidden;
+  position: relative;
+  margin: 20px;
+}
+
+.category-item .overlay {
+  opacity: 0px;
+  position: absolute;
+  padding: 20px;
+  height: 100%;
+  width: 80%;
+  background-color: rgba(107, 62, 30, 0.514);
+  color: white;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "poppins", sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.f-rap {
+  flex-wrap: wrap;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+.jc-spacebetween {
+  justify-content: space-between;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.spacersection {
+  padding: 2% 0;
+}
+
+.spacercontent {
+  margin-bottom: 20px;
+}
+
+.bigtitle {
+  font-size: 3em;
+}
+
+.bigbtn {
+  padding: 20px 40px;
+  background: rgb(14, 78, 17);
+  color: bisque;
+  display: inline-block;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+.header .nav-brand h1 a {
+  text-decoration: none;
+  color: rgb(74, 114, 55);
+}
+
+.header .nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.header .nav ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.header .nav ul li a:hover {
+  font-weight: bold;
+}
+
+.hero-desc {
+  width: 45%;
+}
+
+.hero-desc p {
+  font-size: 13px;
+  line-height: 170%;
+}
+
+.hero-image {
+  width: 55%;
+}
+
+.category-item {
+  height: 380px;
+  overflow: hidden;
+  position: relative;
+  margin: 20px;
+}
+
+.category-item .overlay {
+  opacity: 0px;
+  position: absolute;
+  padding: 20px;
+  height: 100%;
+  width: 80%;
+  background-color: rgba(107, 62, 30, 0.514);
+  color: white;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+} /*# sourceMappingURL=style.css.map *//*# sourceMappingURL=style.css.map */
